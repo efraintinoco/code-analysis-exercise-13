@@ -21,14 +21,15 @@ function (firstName, lastName, age){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| Efrain, Tinoco, 42      | { firstName: Efrain, lastName: Tinoco, age: 42 } | 
+| Marisa, Tinoco, 14      | { firstName: Marisa, lastName: Tinoco, age: 14 } | 
+| Jordan, Tinoco, 18      | { firstName: Jordan, lastName: Tinoco, age: 18 } | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>This function is returning the values for three inputs and then returns it as an object with values inputed for firstName, lastName, and age.
+Whatever value you give the keys will return when function runs. </td>
   </tr>
 </table>
 
