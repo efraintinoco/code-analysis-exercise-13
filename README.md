@@ -21,9 +21,9 @@ function (firstName, lastName, age){
 
 | Input | Output |
 | ----- | ------ |
-| Efrain, Tinoco, 42      | { firstName: Efrain, lastName: Tinoco, age: 42 } | 
-| Marisa, Tinoco, 14      | { firstName: Marisa, lastName: Tinoco, age: 14 } | 
-| Jordan, Tinoco, 18      | { firstName: Jordan, lastName: Tinoco, age: 18 } | 
+| "Efrain", "Tinoco", 42      | { firstName: "Efrain", lastName: "Tinoco", age: 42 } | 
+| "Marisa", "Tinoco", 14      | { firstName: "Marisa", lastName: "Tinoco", age: 14 } | 
+| "Jordan", "Tinoco", 18      | { firstName: "Jordan", lastName: "Tinoco", age: 18 } | 
 
 <table>
   <tr>
